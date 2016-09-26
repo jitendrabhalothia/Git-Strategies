@@ -1,0 +1,3 @@
+[submodule "jen"]
+	path = jen
+	url = https://github.com/jitendrabhalothia/jenkins.git
